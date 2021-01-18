@@ -8,7 +8,10 @@ Imagens (410) para treino e teste disponíveis em `./ORL2`, utilizando 70% para 
 
 ## Setup e execução
 
-Criar virtual env para o python:
+Baixar projeto:
+> git clone https://github.com/plac/pca_recognizer.git
+
+Dentro da pasta do projeto, criar virtual environment para python:
 > virtualenv .venv
 
 Ativar o virtual env:
@@ -19,6 +22,9 @@ Instalar dependências:
 
 Rodar aplicação com paramêtros _default_:
 > python main.py
+
+Desativar virtualenv:
+> deactivate
 
 ## Resumo de resultados
 
